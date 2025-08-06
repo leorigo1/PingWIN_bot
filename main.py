@@ -80,4 +80,4 @@ async def stop(ctx):
   else:
     await ctx.send("O bot não está conectado a nenhum canal de voz.")
 
-bot.run("MTM3NTk5Mjc0NjI1ODQ2ODk1NQ.G8VvOc.eBGODmF5eEuX9pqoMAjsiPjUYk6Cvg5R5xlgp8")
+bot.run("")
